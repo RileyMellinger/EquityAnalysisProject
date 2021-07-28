@@ -1,1 +1,1 @@
-# EquityAnalysisProject
+# Equity Analysis Project
