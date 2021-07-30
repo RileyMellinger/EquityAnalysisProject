@@ -1,1 +1,2 @@
 # Equity Analysis Project
+This project is an analysis on stocks in the S&P 500 using python that and examines financial metrics including beta, correlation, average daily volume, and dividend yield. It takes in downloaded and data-scraped data sets, cleans them, and uses pandas dataframes and numpy in combination with the graphing library matplotlib to provide stockholders with visual representations of important financial metrics.
